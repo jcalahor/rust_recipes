@@ -9,6 +9,6 @@ The project holds few Rust recipes
 2) Select the code and paste on main.rs (overwrite)
 3) Compile and run via cargo
 
-# Snipets
+# Recipes
 Observer pattern
 https://github.com/jcalahor/rust_recipes/blob/main/recipes/src/observer.rs
